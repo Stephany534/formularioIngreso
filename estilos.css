@@ -9,11 +9,11 @@ body{
 }
 
 .form-register{
-    width: 800px;
+    width: 600px;
     background-color: #66D7D1;
     padding: 30px;
     margin: auto;
-    margin-top: 0px;
+    margin-top: 70px;
     border-radius: 4px;
     font-family: 'calibri';
     color: black;
